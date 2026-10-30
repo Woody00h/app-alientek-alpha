@@ -1,0 +1,6 @@
+/build/
+/dist/
+/roms/*
+!/roms/.gitkeep
+*.sav
+*.tmp??????
